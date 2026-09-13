@@ -1,68 +1,63 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077ff&size=45&center=true&vCenter=true&width=1000&height=200&lines=Daniel+Isaac;Data+Analyst;BI+Specialist" width="100%" />
-  
-  <br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielisaacdev/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-vercel-chi.vercel.app/)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56992149141)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=daniel.isaac.dev@gmail.com)
+# Daniel Isaac Elgueta Fuentes
 
-  <br/>
-  
-  <h3>🚀 Estudiante de Ingeniería en Informática | Data Analytics | Business Intelligence</h3>
-  
-  <p align="center">
-    Apasionado por transformar datos en decisiones estratégicas y optimizar infraestructuras digitales.
-  </p>
+**Analista de Datos · Business Intelligence · Automatización**
+
+Estudiante de último semestre de Ingeniería en Informática (Duoc UC) · Santiago, Chile
+
+`🟢 Open to Work` — busco mi primer empleo en Análisis de Datos, BI, Desarrollo o Automatización
+
+<br/>
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-danielisaac.vercel.app-0f131f?style=for-the-badge&logo=vercel&logoColor=white)](https://danielisaac.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-danielisaacdev-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/danielisaacdev/)
+[![CV](https://img.shields.io/badge/CV-Descargar_PDF-4dffb2?style=for-the-badge&logoColor=black)](https://danielisaac.vercel.app/assets/Daniel_Elgueta_CV.pdf)
+[![Email](https://img.shields.io/badge/Email-daniel.isaac.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.isaac.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Escribir-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56992149141)
+
 </div>
 
-<hr/>
+---
 
-### 👤 Sobre Mí
+## Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Informática** en Duoc UC (2023 - 2026).
-- 📊 Especializado en **Business Intelligence**, **Análisis de Datos** y **SQL**.
-- 🛠️ Experiencia en **Python (Pandas, Numpy)** y creación de Dashboards en **Power BI**.
-- 🔭 Actualmente trabajando en proyectos de **Automatización** y **Machine Learning**.
-- 🌱 Aprendiendo continuamente sobre arquitecturas de datos y cloud computing.
+Curso el Proyecto de Título de Ingeniería en Informática con orientación a Ciencia de Datos (titulación estimada: diciembre de 2026). En mi práctica profesional desarrollé de extremo a extremo una aplicación empresarial que quedó **en producción**, reemplazando un proceso manual basado en Excel y correo.
 
-<hr/>
+Combino análisis y calidad de datos, Business Intelligence y automatización low-code, con base en Python y SQL.
 
-### 🛠️ Tech Stack
+## Experiencia
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</div>
+**Practicante de Desarrollo y Análisis de Datos** — Falabella Inmobiliario · mayo – agosto de 2026
 
-<hr/>
+- Diseñé y desarrollé en **Power Apps (Power Fx)** una aplicación para capturar, aprobar y consolidar lecturas de medidores de **14 centros comerciales**, hoy en producción.
+- Implementé control de acceso por roles (Registrador, Aprobador y Administrador), evidencia fotográfica obligatoria, un modelo de datos en **SharePoint** y 2 flujos de **Power Automate**.
+- Concilié el reporte oficial de contratos contra **434 medidores**, corregí **53 falsos positivos** y cargué datos maestros de **~1.100 medidores**.
+- Automaticé con **macros VBA** la importación de comprobantes de venta y documenté aplicaciones internas y reportes de **Power BI**.
 
-### 📊 Mis Estadísticas
+## Proyectos destacados
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=danielisaacdev&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
-<hr/>
-
-### 📁 Proyectos Destacados
-
-| Proyecto | Descripción | Stack |
+| Proyecto | Qué hace | Stack |
 | :--- | :--- | :--- |
-| **[PortafolioVercel](https://github.com/danielisaacdev/PortafolioVercel)** | Mi portafolio profesional con diseño Stitch Digital Aurora. | React, Tailwind, Framer Motion |
-| **[fastapi-crm](https://github.com/danielisaacdev/fastapi-crm)** | Backend para gestión de clientes con FastAPI. | Python, FastAPI, SQL |
-| **[OnStore](https://github.com/danielisaacdev/OnStore)** | Tienda online moderna y rápida. | Astro, Tailwind |
-| **[web-scraping-pipeline](https://github.com/danielisaacdev/--web-scraping-pipeline)** | Pipeline de extracción de datos automatizada. | Python, Selenium/BeautifulSoup |
+| **[StgoJobsDash](https://github.com/danielisaacdev/StgoJobsDash)** | Scrapea ofertas de empleo TI de un portal chileno y las ordena según su afinidad con tu CV usando TF-IDF y similitud coseno. Dashboard con filtros y exportación a CSV. | Python, FastAPI, scikit-learn, Astro, TypeScript |
+| **[Portafolio web](https://github.com/danielisaacdev/PortafolioVercel)** | Sitio personal estático, accesible y con headers de seguridad, desplegado en Vercel. | HTML, CSS, JavaScript, Vercel |
 
-<hr/>
+## Stack
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Datos y BI** | Python (pandas, NumPy), SQL, Power BI (DAX, Power Query), Excel avanzado |
+| **Automatización y low-code** | Power Apps (Power Fx), Power Automate, SharePoint Online, VBA |
+| **Desarrollo** | FastAPI, JavaScript / TypeScript, Astro, Java, Git / GitHub |
+| **Machine Learning** | scikit-learn (TF-IDF, similitud coseno), fundamentos de ML y Deep Learning |
+| **Metodologías** | Scrum, Kanban, documentación técnica |
+
+**Idiomas:** español (nativo) · inglés intermedio (B2)
+
+---
 
 <div align="center">
-  <p>💻 Gracias por visitar mi perfil. ¡Hagamos cosas increíbles con los datos!</p>
+
+¿Tienes una vacante en datos, BI o automatización? Escríbeme a **[daniel.isaac.dev@gmail.com](mailto:daniel.isaac.dev@gmail.com)** o por [LinkedIn](https://www.linkedin.com/in/danielisaacdev/).
+
 </div>
